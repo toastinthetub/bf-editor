@@ -1,1 +1,3 @@
-completely useless piece of software.
+Terminal text editor that only lets you write brainfuck.
+
+Lol
